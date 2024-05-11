@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-💻 Core Stack: Go, JS/React. Mainly focused on Backend & Frontend.
+<span>💻 Core Stack: Go, JS/React. Mainly focused on Backend & Frontend.</span>
 
 <!--
 **Tairascii/Tairascii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
